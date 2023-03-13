@@ -161,8 +161,6 @@ while True:
    webbrowser.open(web2)
  elif cmd == "tree":
   s("tree")
- #afahrhrahar@gmail.com
-#baxpggudntwjddfs
  elif cmd == "reload":
   s("python main.py")
  elif cmd == "explorer":
